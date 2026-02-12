@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "cups",
+        "quantity": 8,
+        "price": 300.0
+    },
+    "2": {
+        "name": "bread",
+        "quantity": 20,
+        "price": 55.0
+    },
+    "3": {
+        "name": "kitkat",
+        "quantity": 40,
+        "price": 20.0
+    },
+    "4": {
+        "name": "perfume",
+        "quantity": 12,
+        "price": 500.0
+    },
+    "5": {
+        "name": "pen",
+        "quantity": 120,
+        "price": 10.0
+    },
+    "6": {
+        "name": "water",
+        "quantity": 22,
+        "price": 15.0
+    }
+}
