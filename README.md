@@ -1,5 +1,4 @@
 📘 INVENTORY MANAGEMENT SYSTEM
-
 Introduction
 
 In small businesses, shops, and warehouses, managing inventory manually can lead to many problems such as data loss, incorrect stock records, and no proper monitoring of staff activities. Without a structured system, it becomes difficult to track products, update stock, or monitor changes made by employees.
@@ -161,4 +160,4 @@ This approach is called Defensive Programming.
 
 
         Author
-        Harsh Singh
+        Ashish Kumar
